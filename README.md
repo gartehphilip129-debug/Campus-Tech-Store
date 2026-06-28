@@ -7,7 +7,7 @@
 - **Lecturer:** Eric Maniraguha
 - **Institution:** UNILAK
 - **Academic Year:** 2025–2026
-- **Semester:** II
+
 
 ---
 
@@ -71,20 +71,6 @@ Campus Tech Store is a modern no-code e-commerce website designed using Wix. The
 - View selected products before checkout (simulation)
 
 ---
-
-## Screenshots
-
-### Homepage
-![Homepage]()
-
-### Products Page
-![Products](images/products.png)
-
-### Contact Page
-![Contact](images/contact.png)
-
-### Cart Page
-![Cart](images/cart.png)
 
 
 ## Live Website
