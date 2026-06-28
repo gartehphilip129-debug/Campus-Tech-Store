@@ -1,8 +1,8 @@
 # Campus Tech Store – E-Commerce Website (No-Code Project)
 
 ## Student Information
-- **Name:** [Your Name]
-- **Student ID:** [Your ID]
+- **Name: K. Philip Garteh
+- **Student ID: 22670/2023
 - **Course:** E-Commerce and Web Application (EWA408510)
 - **Lecturer:** Eric Maniraguha
 - **Institution:** UNILAK
@@ -75,7 +75,7 @@ Campus Tech Store is a modern no-code e-commerce website designed using Wix. The
 ## Screenshots
 
 ### Homepage
-![Homepage](images/homepage.png)
+![Homepage]()
 
 ### Products Page
 ![Products](images/products.png)
@@ -86,10 +86,9 @@ Campus Tech Store is a modern no-code e-commerce website designed using Wix. The
 ### Cart Page
 ![Cart](images/cart.png)
 
----
 
 ## Live Website
-[Click here to view the live website](https://your-wix-site-link.com)
+[Click here to view the live website](https://roujeeey.wixsite.com/campus-tech-store)
 
 ---
 
