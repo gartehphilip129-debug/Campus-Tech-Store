@@ -79,7 +79,7 @@ Campus Tech Store is a modern no-code e-commerce website designed using Wix. The
 ---
 
 ## GitHub Repository
-[Click here to view the GitHub repository](https://github.com/your-username/campus-tech-store)
+[Click here to view the GitHub repository](https://github.com/gartehphilip129-debug/Campus-Tech-Store.git)
 
 ---
 
